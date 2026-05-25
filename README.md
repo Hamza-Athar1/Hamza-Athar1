@@ -1,19 +1,21 @@
-<h2 align="left">Hi 👋! My name is Hamza and I'm a Software Dev from Pakistan</h2>
+<h2 align="center">Hi 👋! My name is Hamza and I'm a Software Dev from Pakistan</h2>
 
-###
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hamza-Athar1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hamza-Athar1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-###
+<br/>
 
-<img align="left" height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+<div align="center">
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Pixel Art Gaming Setup" />
+</div>
 
-###
+<br/>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
@@ -31,9 +33,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
 </div>
 
-###
+<br/>
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/_hamza_nvm/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
@@ -48,9 +50,7 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
+<br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Hamza-Athar1/Hamza-Athar1/output/snake.svg" alt="GitHub Contribution Snake animation" />
